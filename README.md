@@ -6,6 +6,9 @@ Show a gif image of the control interface in operation.
 Find the issues with the current design.
 Explain why it is good/bad.
 
+# My Gif
+![](https://github.com/melodyortega/demo-repo/blob/main/IMG_3368_MOV_AdobeExpress.gif)
+
 # Issues with Current Design
 1. In an emergency, you would want to quickly find the emergency button. Should be marked in red.
 2. Figuring out what each letter stands for. Many people could not know what each letter stands for
